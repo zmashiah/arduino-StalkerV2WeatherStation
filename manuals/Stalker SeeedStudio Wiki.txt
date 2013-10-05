@@ -1,0 +1,4 @@
+Seeed Studio Wiki page on the board is at:
+http://www.seeedstudio.com/wiki/Seeeduino_Stalker_v2.0#Step_3:_Installing_the_drivers_and_plugging_in_the_hardware
+
+
